@@ -11,5 +11,5 @@ dotnet run.
 ```
 
 # How to run tests 
-Tests are developed with NUnit 3.0 [https://github.com/nunit](https://github.com/nunit).
+Tests are developed with NUnit 3.0 (https://github.com/nunit).
 In Visual Studio open Test -> Windows -> Test Explorer and hit Run All or run specific test.
